@@ -14,7 +14,6 @@
             <ul class="mt-4 space-y-3 text-sm text-slate-600 dark:text-neutral-400">
                <li><a href="{{ route('home') }}" class="rounded hover:text-blue-600 dark:hover:text-blue-400 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-500">Home</a></li>
                <li><a href="{{ route('about') }}" class="rounded hover:text-blue-600 dark:hover:text-blue-400 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-500">About</a></li>
-               <li><a href="{{ route('blog') }}" class="rounded hover:text-blue-600 dark:hover:text-blue-400 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-500">Blog</a></li>
                <li><a href="{{ route('contact') }}" class="rounded hover:text-blue-600 dark:hover:text-blue-400 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-500">Contact</a></li>
             </ul>
          </nav>
